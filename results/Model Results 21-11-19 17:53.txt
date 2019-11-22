@@ -1,0 +1,1064 @@
+Overall Model Results
+
+
+
+Regressor 1 Results for: CM:
+
+Number of CM's: 379
+Total Difference in rating points: 51.0
+
+explained_variance:  0.9978
+mean_squared_log_error:  0.0
+r2:  0.9978
+MAE:  0.1346
+MSE:  0.1398
+RMSE:  0.374
+
+
+[17:53:39] WARNING: src/objective/regression_obj.cu:152: reg:linear is now deprecated in favor of reg:squarederror.
+Regressor 2 Results for: CM:
+
+Number of CM's: 379
+Total Difference in rating points: 503.0
+
+explained_variance:  0.9536
+mean_squared_log_error:  0.0006
+r2:  0.9535
+MAE:  1.3272
+MSE:  2.8997
+RMSE:  1.7029
+
+
+Regressor 3 Results for: CM:
+
+Number of CM's: 379
+Total Difference in rating points: 310.0
+
+explained_variance:  0.9799
+mean_squared_log_error:  0.0003
+r2:  0.9798
+MAE:  0.8179
+MSE:  1.2612
+RMSE:  1.123
+
+
+Regressor 1 Results for: ST:
+
+Number of ST's: 490
+Total Difference in rating points: 440.0
+
+explained_variance:  0.9732
+mean_squared_log_error:  0.0004
+r2:  0.9732
+MAE:  0.898
+MSE:  1.5551
+RMSE:  1.247
+
+
+[17:53:39] WARNING: src/objective/regression_obj.cu:152: reg:linear is now deprecated in favor of reg:squarederror.
+Regressor 2 Results for: ST:
+
+Number of ST's: 490
+Total Difference in rating points: 720.0
+
+explained_variance:  0.9399
+mean_squared_log_error:  0.0007
+r2:  0.9394
+MAE:  1.4694
+MSE:  3.5143
+RMSE:  1.8746
+
+
+Regressor 3 Results for: ST:
+
+Number of ST's: 490
+Total Difference in rating points: 503.0
+
+explained_variance:  0.9657
+mean_squared_log_error:  0.0004
+r2:  0.9655
+MAE:  1.0265
+MSE:  2.002
+RMSE:  1.4149
+
+
+Regressor 1 Results for: W:
+
+Number of W's: 141
+Total Difference in rating points: 85.0
+
+explained_variance:  0.9825
+mean_squared_log_error:  0.0002
+r2:  0.9819
+MAE:  0.6028
+MSE:  0.773
+RMSE:  0.8792
+
+
+[17:53:39] WARNING: src/objective/regression_obj.cu:152: reg:linear is now deprecated in favor of reg:squarederror.
+Regressor 2 Results for: W:
+
+Number of W's: 141
+Total Difference in rating points: 196.0
+
+explained_variance:  0.932
+mean_squared_log_error:  0.0006
+r2:  0.9317
+MAE:  1.3901
+MSE:  2.922
+RMSE:  1.7094
+
+
+Regressor 3 Results for: W:
+
+Number of W's: 141
+Total Difference in rating points: 142.0
+
+explained_variance:  0.9619
+mean_squared_log_error:  0.0003
+r2:  0.9619
+MAE:  1.0071
+MSE:  1.6312
+RMSE:  1.2772
+
+
+Regressor 1 Results for: CAM:
+
+Number of CAM's: 211
+Total Difference in rating points: 127.0
+
+explained_variance:  0.9873
+mean_squared_log_error:  0.0002
+r2:  0.9873
+MAE:  0.6019
+MSE:  0.7062
+RMSE:  0.8403
+
+
+[17:53:39] WARNING: src/objective/regression_obj.cu:152: reg:linear is now deprecated in favor of reg:squarederror.
+Regressor 2 Results for: CAM:
+
+Number of CAM's: 211
+Total Difference in rating points: 294.0
+
+explained_variance:  0.944
+mean_squared_log_error:  0.0007
+r2:  0.9436
+MAE:  1.3934
+MSE:  3.128
+RMSE:  1.7686
+
+
+Regressor 3 Results for: CAM:
+
+Number of CAM's: 211
+Total Difference in rating points: 210.0
+
+explained_variance:  0.9665
+mean_squared_log_error:  0.0004
+r2:  0.9665
+MAE:  0.9953
+MSE:  1.8578
+RMSE:  1.363
+
+
+Regressor 1 Results for: OM:
+
+Number of OM's: 342
+Total Difference in rating points: 347.0
+
+explained_variance:  0.9547
+mean_squared_log_error:  0.0004
+r2:  0.9547
+MAE:  1.0146
+MSE:  1.8509
+RMSE:  1.3605
+
+
+[17:53:39] WARNING: src/objective/regression_obj.cu:152: reg:linear is now deprecated in favor of reg:squarederror.
+Regressor 2 Results for: OM:
+
+Number of OM's: 342
+Total Difference in rating points: 528.0
+
+explained_variance:  0.9034
+mean_squared_log_error:  0.0008
+r2:  0.903
+MAE:  1.5439
+MSE:  3.9649
+RMSE:  1.9912
+
+
+Regressor 3 Results for: OM:
+
+Number of OM's: 342
+Total Difference in rating points: 368.0
+
+explained_variance:  0.9516
+mean_squared_log_error:  0.0004
+r2:  0.9506
+MAE:  1.076
+MSE:  2.0175
+RMSE:  1.4204
+
+
+Regressor 1 Results for: OB:
+
+Number of OB's: 421
+Total Difference in rating points: 287.0
+
+explained_variance:  0.9796
+mean_squared_log_error:  0.0002
+r2:  0.9796
+MAE:  0.6817
+MSE:  0.981
+RMSE:  0.9905
+
+
+[17:53:40] WARNING: src/objective/regression_obj.cu:152: reg:linear is now deprecated in favor of reg:squarederror.
+Regressor 2 Results for: OB:
+
+Number of OB's: 421
+Total Difference in rating points: 543.0
+
+explained_variance:  0.9433
+mean_squared_log_error:  0.0006
+r2:  0.9431
+MAE:  1.2898
+MSE:  2.7387
+RMSE:  1.6549
+
+
+Regressor 3 Results for: OB:
+
+Number of OB's: 421
+Total Difference in rating points: 405.0
+
+explained_variance:  0.9625
+mean_squared_log_error:  0.0004
+r2:  0.9624
+MAE:  0.962
+MSE:  1.8076
+RMSE:  1.3445
+
+
+Regressor 1 Results for: CDM:
+
+Number of CDM's: 237
+Total Difference in rating points: 25.0
+
+explained_variance:  0.9976
+mean_squared_log_error:  0.0
+r2:  0.9976
+MAE:  0.1055
+MSE:  0.1055
+RMSE:  0.3248
+
+
+[17:53:40] WARNING: src/objective/regression_obj.cu:152: reg:linear is now deprecated in favor of reg:squarederror.
+Regressor 2 Results for: CDM:
+
+Number of CDM's: 237
+Total Difference in rating points: 388.0
+
+explained_variance:  0.9041
+mean_squared_log_error:  0.0009
+r2:  0.904
+MAE:  1.6371
+MSE:  4.2447
+RMSE:  2.0603
+
+
+Regressor 3 Results for: CDM:
+
+Number of CDM's: 237
+Total Difference in rating points: 186.0
+
+explained_variance:  0.9731
+mean_squared_log_error:  0.0003
+r2:  0.9731
+MAE:  0.7848
+MSE:  1.1899
+RMSE:  1.0908
+
+
+Regressor 1 Results for: CB:
+
+Number of CB's: 491
+Total Difference in rating points: 198.0
+
+explained_variance:  0.9906
+mean_squared_log_error:  0.0001
+r2:  0.9906
+MAE:  0.4033
+MSE:  0.4562
+RMSE:  0.6754
+
+
+[17:53:40] WARNING: src/objective/regression_obj.cu:152: reg:linear is now deprecated in favor of reg:squarederror.
+Regressor 2 Results for: CB:
+
+Number of CB's: 491
+Total Difference in rating points: 708.0
+
+explained_variance:  0.9295
+mean_squared_log_error:  0.0008
+r2:  0.929
+MAE:  1.442
+MSE:  3.442
+RMSE:  1.8553
+
+
+Regressor 3 Results for: CB:
+
+Number of CB's: 491
+Total Difference in rating points: 387.0
+
+explained_variance:  0.975
+mean_squared_log_error:  0.0003
+r2:  0.9749
+MAE:  0.7882
+MSE:  1.2159
+RMSE:  1.1027
+
+
+Regressor 1 Results for: GK:
+
+Number of GK's: 282
+Total Difference in rating points: 36.0
+
+explained_variance:  0.9984
+mean_squared_log_error:  0.0
+r2:  0.9983
+MAE:  0.1277
+MSE:  0.1277
+RMSE:  0.3573
+
+
+[17:53:40] WARNING: src/objective/regression_obj.cu:152: reg:linear is now deprecated in favor of reg:squarederror.
+Regressor 2 Results for: GK:
+
+Number of GK's: 282
+Total Difference in rating points: 569.0
+
+explained_variance:  0.9125
+mean_squared_log_error:  0.0016
+r2:  0.9125
+MAE:  2.0177
+MSE:  6.6986
+RMSE:  2.5882
+
+
+Regressor 3 Results for: GK:
+
+Number of GK's: 282
+Total Difference in rating points: 193.0
+
+explained_variance:  0.9837
+mean_squared_log_error:  0.0003
+r2:  0.9837
+MAE:  0.6844
+MSE:  1.2447
+RMSE:  1.1157
+
+
+Regressor 1 Results for: OWB:
+
+Number of OWB's: 26
+Total Difference in rating points: 20.0
+
+explained_variance:  0.9837
+mean_squared_log_error:  0.0003
+r2:  0.9837
+MAE:  0.7692
+MSE:  1.1538
+RMSE:  1.0742
+
+
+[17:53:40] WARNING: src/objective/regression_obj.cu:152: reg:linear is now deprecated in favor of reg:squarederror.
+Regressor 2 Results for: OWB:
+
+Number of OWB's: 26
+Total Difference in rating points: 32.0
+
+explained_variance:  0.9628
+mean_squared_log_error:  0.0006
+r2:  0.9621
+MAE:  1.2308
+MSE:  2.6923
+RMSE:  1.6408
+
+
+Regressor 3 Results for: OWB:
+
+Number of OWB's: 26
+Total Difference in rating points: 39.0
+
+explained_variance:  0.9469
+mean_squared_log_error:  0.001
+r2:  0.9453
+MAE:  1.5
+MSE:  3.8846
+RMSE:  1.9709
+
+
+Coefficients for CMwith LinearRegression(copy_X=True, fit_intercept=False, n_jobs=None, normalize=False):
+ 
+ {'Intercept': 0.0, 'Coefficients':                             0
+skill_moves          0.067961
+crossing            -0.003618
+finishing            0.021792
+short_passing        0.182894
+volleys             -0.001823
+dribbling            0.081853
+curve               -0.001029
+fk_accuracy          0.001777
+long_passing         0.135727
+ball_control         0.127226
+reactions            0.081996
+shot_power          -0.000888
+stamina              0.061375
+long_shots           0.035680
+aggression           0.002677
+interceptions        0.045238
+positioning          0.063881
+vision               0.125611
+penalties            0.000802
+composure            0.000389
+defensive_awareness -0.000102
+standing_tackle      0.046850
+sliding_tackle       0.003620} 
+ 
+ 
+
+Coefficients for CMwith XGBRegressor(base_score=0.5, booster='gblinear', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0,
+             importance_type='gain', learning_rate=0.1, max_delta_step=0,
+             max_depth=3, min_child_weight=1, missing=None, n_estimators=100,
+             n_jobs=1, nthread=None, objective='reg:linear', random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+             silent=None, subsample=1, verbosity=1):
+ 
+ {'Intercept': array([7.43818]), 'Coefficients':                             0
+skill_moves          0.559000
+crossing             0.086037
+finishing            0.088219
+short_passing        0.083772
+volleys              0.050686
+dribbling            0.070944
+curve                0.040114
+fk_accuracy          0.029722
+long_passing         0.060199
+ball_control         0.052634
+reactions            0.051379
+shot_power           0.028616
+stamina              0.038499
+long_shots           0.021832
+aggression           0.034178
+interceptions        0.041927
+positioning          0.024596
+vision               0.025698
+penalties           -0.000739
+composure            0.020115
+defensive_awareness  0.027961
+standing_tackle      0.027139
+sliding_tackle       0.024384} 
+ 
+ 
+
+Coefficients for CMwith RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+                      max_features='auto', max_leaf_nodes=None,
+                      min_impurity_decrease=0.0, min_impurity_split=None,
+                      min_samples_leaf=1, min_samples_split=2,
+                      min_weight_fraction_leaf=0.0, n_estimators=10,
+                      n_jobs=None, oob_score=False, random_state=None,
+                      verbose=0, warm_start=False):
+ 
+ Not Applicable for this Regressor 
+ 
+ 
+
+Coefficients for STwith LinearRegression(copy_X=True, fit_intercept=False, n_jobs=None, normalize=False):
+ 
+ {'Intercept': 0.0, 'Coefficients':                          0
+skill_moves      -0.026150
+crossing          0.010998
+finishing         0.236257
+heading_accuracy  0.087888
+short_passing     0.038968
+volleys          -0.030804
+dribbling         0.164146
+curve             0.002432
+fk_accuracy      -0.012385
+long_passing     -0.010908
+ball_control      0.103823
+reactions         0.091960
+shot_power        0.160731
+long_shots        0.027107
+positioning       0.130185
+vision            0.005836
+penalties         0.014612
+composure        -0.006687} 
+ 
+ 
+
+Coefficients for STwith XGBRegressor(base_score=0.5, booster='gblinear', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0,
+             importance_type='gain', learning_rate=0.1, max_delta_step=0,
+             max_depth=3, min_child_weight=1, missing=None, n_estimators=100,
+             n_jobs=1, nthread=None, objective='reg:linear', random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+             silent=None, subsample=1, verbosity=1):
+ 
+ {'Intercept': array([9.31158]), 'Coefficients':                          0
+skill_moves       0.539740
+crossing          0.076109
+finishing         0.112288
+heading_accuracy  0.111400
+short_passing     0.079045
+volleys           0.072730
+dribbling         0.067849
+curve             0.031061
+fk_accuracy       0.006800
+long_passing      0.025882
+ball_control      0.057966
+reactions         0.055427
+shot_power        0.052320
+long_shots        0.039940
+positioning       0.043895
+vision            0.015868
+penalties         0.033674
+composure         0.025068} 
+ 
+ 
+
+Coefficients for STwith RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+                      max_features='auto', max_leaf_nodes=None,
+                      min_impurity_decrease=0.0, min_impurity_split=None,
+                      min_samples_leaf=1, min_samples_split=2,
+                      min_weight_fraction_leaf=0.0, n_estimators=10,
+                      n_jobs=None, oob_score=False, random_state=None,
+                      verbose=0, warm_start=False):
+ 
+ Not Applicable for this Regressor 
+ 
+ 
+
+Coefficients for Wwith LinearRegression(copy_X=True, fit_intercept=False, n_jobs=None, normalize=False):
+ 
+ {'Intercept': 0.0, 'Coefficients':                       0
+int_rep        0.153781
+skill_moves   -0.108783
+crossing       0.105863
+finishing      0.125876
+short_passing  0.071328
+volleys       -0.002738
+dribbling      0.255095
+curve          0.007693
+fk_accuracy   -0.011021
+long_passing  -0.019510
+ball_control   0.098566
+agility        0.099406
+reactions      0.057802
+shot_power     0.003516
+stamina        0.033732
+long_shots     0.028258
+positioning    0.113813
+vision         0.043213
+penalties      0.005222
+composure     -0.010304} 
+ 
+ 
+
+Coefficients for Wwith XGBRegressor(base_score=0.5, booster='gblinear', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0,
+             importance_type='gain', learning_rate=0.1, max_delta_step=0,
+             max_depth=3, min_child_weight=1, missing=None, n_estimators=100,
+             n_jobs=1, nthread=None, objective='reg:linear', random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+             silent=None, subsample=1, verbosity=1):
+ 
+ {'Intercept': array([8.47754]), 'Coefficients':                       0
+int_rep        0.054389
+skill_moves    0.751666
+crossing       0.103983
+finishing      0.099193
+short_passing  0.084936
+volleys        0.067344
+dribbling      0.070355
+curve          0.048495
+fk_accuracy    0.030098
+long_passing   0.051432
+ball_control   0.051450
+agility        0.051341
+reactions      0.048080
+shot_power     0.030145
+stamina        0.043861
+long_shots     0.022047
+positioning    0.030855
+vision         0.022053
+penalties      0.013856
+composure      0.017280} 
+ 
+ 
+
+Coefficients for Wwith RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+                      max_features='auto', max_leaf_nodes=None,
+                      min_impurity_decrease=0.0, min_impurity_split=None,
+                      min_samples_leaf=1, min_samples_split=2,
+                      min_weight_fraction_leaf=0.0, n_estimators=10,
+                      n_jobs=None, oob_score=False, random_state=None,
+                      verbose=0, warm_start=False):
+ 
+ Not Applicable for this Regressor 
+ 
+ 
+
+Coefficients for CAMwith LinearRegression(copy_X=True, fit_intercept=False, n_jobs=None, normalize=False):
+ 
+ {'Intercept': 0.0, 'Coefficients':                       0
+skill_moves   -0.026296
+crossing      -0.010603
+finishing      0.079141
+short_passing  0.212979
+volleys       -0.015070
+dribbling      0.226720
+curve          0.013739
+fk_accuracy   -0.016283
+long_passing   0.015719
+ball_control   0.147883
+reactions      0.062051
+shot_power     0.025168
+stamina        0.025178
+long_shots     0.019713
+positioning    0.083530
+vision         0.148402
+penalties      0.003247
+composure     -0.010322} 
+ 
+ 
+
+Coefficients for CAMwith XGBRegressor(base_score=0.5, booster='gblinear', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0,
+             importance_type='gain', learning_rate=0.1, max_delta_step=0,
+             max_depth=3, min_child_weight=1, missing=None, n_estimators=100,
+             n_jobs=1, nthread=None, objective='reg:linear', random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+             silent=None, subsample=1, verbosity=1):
+ 
+ {'Intercept': array([9.0183]), 'Coefficients':                       0
+skill_moves    0.746885
+crossing       0.100818
+finishing      0.103374
+short_passing  0.089199
+volleys        0.068288
+dribbling      0.073933
+curve          0.048758
+fk_accuracy    0.038119
+long_passing   0.058322
+ball_control   0.052731
+reactions      0.050547
+shot_power     0.031921
+stamina        0.041021
+long_shots     0.025115
+positioning    0.035402
+vision         0.030380
+penalties      0.014725
+composure      0.019825} 
+ 
+ 
+
+Coefficients for CAMwith RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+                      max_features='auto', max_leaf_nodes=None,
+                      min_impurity_decrease=0.0, min_impurity_split=None,
+                      min_samples_leaf=1, min_samples_split=2,
+                      min_weight_fraction_leaf=0.0, n_estimators=10,
+                      n_jobs=None, oob_score=False, random_state=None,
+                      verbose=0, warm_start=False):
+ 
+ Not Applicable for this Regressor 
+ 
+ 
+
+Coefficients for OMwith LinearRegression(copy_X=True, fit_intercept=False, n_jobs=None, normalize=False):
+ 
+ {'Intercept': 0.0, 'Coefficients':                       0
+skill_moves   -0.051770
+crossing       0.126145
+finishing      0.071921
+short_passing  0.166371
+volleys       -0.009118
+dribbling      0.272374
+curve         -0.021686
+fk_accuracy   -0.012072
+long_passing   0.013438
+ball_control   0.134889
+reactions      0.067285
+shot_power     0.043933
+long_shots    -0.023692
+positioning    0.124197
+vision         0.057079
+composure      0.012384} 
+ 
+ 
+
+Coefficients for OMwith XGBRegressor(base_score=0.5, booster='gblinear', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0,
+             importance_type='gain', learning_rate=0.1, max_delta_step=0,
+             max_depth=3, min_child_weight=1, missing=None, n_estimators=100,
+             n_jobs=1, nthread=None, objective='reg:linear', random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+             silent=None, subsample=1, verbosity=1):
+ 
+ {'Intercept': array([9.46339]), 'Coefficients':                       0
+skill_moves    0.781811
+crossing       0.115067
+finishing      0.104823
+short_passing  0.095622
+volleys        0.070324
+dribbling      0.077267
+curve          0.045794
+fk_accuracy    0.027166
+long_passing   0.063290
+ball_control   0.058492
+reactions      0.057668
+shot_power     0.037125
+long_shots     0.025482
+positioning    0.044436
+vision         0.034657
+composure      0.029779} 
+ 
+ 
+
+Coefficients for OMwith RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+                      max_features='auto', max_leaf_nodes=None,
+                      min_impurity_decrease=0.0, min_impurity_split=None,
+                      min_samples_leaf=1, min_samples_split=2,
+                      min_weight_fraction_leaf=0.0, n_estimators=10,
+                      n_jobs=None, oob_score=False, random_state=None,
+                      verbose=0, warm_start=False):
+ 
+ Not Applicable for this Regressor 
+ 
+ 
+
+Coefficients for OBwith LinearRegression(copy_X=True, fit_intercept=False, n_jobs=None, normalize=False):
+ 
+ {'Intercept': 0.0, 'Coefficients':                             0
+skill_moves          0.030349
+crossing             0.079547
+finishing            0.002760
+heading_accuracy     0.033857
+short_passing        0.073898
+volleys              0.004357
+dribbling            0.060514
+curve               -0.007607
+long_passing        -0.022594
+ball_control         0.104771
+reactions            0.082661
+shot_power          -0.002618
+stamina              0.136090
+long_shots          -0.015952
+aggression           0.008631
+interceptions        0.116611
+positioning          0.012954
+vision               0.005004
+composure           -0.022113
+defensive_awareness  0.065222
+standing_tackle      0.138860
+sliding_tackle       0.162788} 
+ 
+ 
+
+Coefficients for OBwith XGBRegressor(base_score=0.5, booster='gblinear', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0,
+             importance_type='gain', learning_rate=0.1, max_delta_step=0,
+             max_depth=3, min_child_weight=1, missing=None, n_estimators=100,
+             n_jobs=1, nthread=None, objective='reg:linear', random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+             silent=None, subsample=1, verbosity=1):
+ 
+ {'Intercept': array([9.05479]), 'Coefficients':                             0
+skill_moves          0.414605
+crossing             0.103368
+finishing            0.048587
+heading_accuracy     0.105904
+short_passing        0.079375
+volleys              0.018230
+dribbling            0.070997
+curve                0.023921
+long_passing         0.048152
+ball_control         0.057391
+reactions            0.060227
+shot_power           0.001261
+stamina              0.053930
+long_shots          -0.021489
+aggression           0.045591
+interceptions        0.051521
+positioning          0.019961
+vision               0.005745
+composure            0.024687
+defensive_awareness  0.043231
+standing_tackle      0.039472
+sliding_tackle       0.037000} 
+ 
+ 
+
+Coefficients for OBwith RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+                      max_features='auto', max_leaf_nodes=None,
+                      min_impurity_decrease=0.0, min_impurity_split=None,
+                      min_samples_leaf=1, min_samples_split=2,
+                      min_weight_fraction_leaf=0.0, n_estimators=10,
+                      n_jobs=None, oob_score=False, random_state=None,
+                      verbose=0, warm_start=False):
+ 
+ Not Applicable for this Regressor 
+ 
+ 
+
+Coefficients for CDMwith LinearRegression(copy_X=True, fit_intercept=False, n_jobs=None, normalize=False):
+ 
+ {'Intercept': 0.0, 'Coefficients':                             0
+crossing            -0.003345
+finishing            0.004393
+heading_accuracy     0.002338
+short_passing        0.143739
+dribbling            0.000936
+long_passing         0.099689
+ball_control         0.107977
+reactions            0.077446
+shot_power          -0.000836
+stamina              0.059599
+strength             0.041869
+long_shots          -0.002487
+aggression           0.048044
+interceptions        0.134808
+positioning         -0.004521
+vision               0.045078
+composure           -0.005233
+defensive_awareness  0.089529
+standing_tackle      0.119051
+sliding_tackle       0.057068} 
+ 
+ 
+
+Coefficients for CDMwith XGBRegressor(base_score=0.5, booster='gblinear', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0,
+             importance_type='gain', learning_rate=0.1, max_delta_step=0,
+             max_depth=3, min_child_weight=1, missing=None, n_estimators=100,
+             n_jobs=1, nthread=None, objective='reg:linear', random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+             silent=None, subsample=1, verbosity=1):
+ 
+ {'Intercept': array([7.30843]), 'Coefficients':                             0
+crossing             0.092368
+finishing            0.078011
+heading_accuracy     0.090566
+short_passing        0.081685
+dribbling            0.069412
+long_passing         0.067350
+ball_control         0.060273
+reactions            0.063076
+shot_power           0.032334
+stamina              0.048828
+strength             0.038990
+long_shots           0.009601
+aggression           0.040437
+interceptions        0.042308
+positioning          0.011413
+vision               0.025646
+composure            0.027068
+defensive_awareness  0.034911
+standing_tackle      0.027663
+sliding_tackle       0.023579} 
+ 
+ 
+
+Coefficients for CDMwith RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+                      max_features='auto', max_leaf_nodes=None,
+                      min_impurity_decrease=0.0, min_impurity_split=None,
+                      min_samples_leaf=1, min_samples_split=2,
+                      min_weight_fraction_leaf=0.0, n_estimators=10,
+                      n_jobs=None, oob_score=False, random_state=None,
+                      verbose=0, warm_start=False):
+ 
+ Not Applicable for this Regressor 
+ 
+ 
+
+Coefficients for CBwith LinearRegression(copy_X=True, fit_intercept=False, n_jobs=None, normalize=False):
+ 
+ {'Intercept': 0.0, 'Coefficients':                             0
+heading_accuracy     0.086005
+short_passing        0.047820
+dribbling            0.010845
+long_passing        -0.008549
+ball_control         0.047093
+reactions            0.055861
+strength             0.115420
+aggression           0.063619
+interceptions        0.128726
+composure           -0.008984
+defensive_awareness  0.131114
+standing_tackle      0.210479
+sliding_tackle       0.134471} 
+ 
+ 
+
+Coefficients for CBwith XGBRegressor(base_score=0.5, booster='gblinear', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0,
+             importance_type='gain', learning_rate=0.1, max_delta_step=0,
+             max_depth=3, min_child_weight=1, missing=None, n_estimators=100,
+             n_jobs=1, nthread=None, objective='reg:linear', random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+             silent=None, subsample=1, verbosity=1):
+ 
+ {'Intercept': array([9.53143]), 'Coefficients':                             0
+heading_accuracy     0.124873
+short_passing        0.093369
+dribbling            0.070402
+long_passing         0.065908
+ball_control         0.072710
+reactions            0.087341
+strength             0.074055
+aggression           0.066534
+interceptions        0.065143
+composure            0.047812
+defensive_awareness  0.055934
+standing_tackle      0.051743
+sliding_tackle       0.047354} 
+ 
+ 
+
+Coefficients for CBwith RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+                      max_features='auto', max_leaf_nodes=None,
+                      min_impurity_decrease=0.0, min_impurity_split=None,
+                      min_samples_leaf=1, min_samples_split=2,
+                      min_weight_fraction_leaf=0.0, n_estimators=10,
+                      n_jobs=None, oob_score=False, random_state=None,
+                      verbose=0, warm_start=False):
+ 
+ Not Applicable for this Regressor 
+ 
+ 
+
+Coefficients for GKwith LinearRegression(copy_X=True, fit_intercept=False, n_jobs=None, normalize=False):
+ 
+ {'Intercept': 0.0, 'Coefficients':                        0
+sprint_speed   -0.000653
+reactions       0.103447
+shot_power      0.041925
+composure       0.000393
+gk_diving       0.225326
+gk_handling     0.212651
+gk_kicking      0.022226
+gk_positioning  0.215457
+gk_reflexes     0.203987} 
+ 
+ 
+
+Coefficients for GKwith XGBRegressor(base_score=0.5, booster='gblinear', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0,
+             importance_type='gain', learning_rate=0.1, max_delta_step=0,
+             max_depth=3, min_child_weight=1, missing=None, n_estimators=100,
+             n_jobs=1, nthread=None, objective='reg:linear', random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+             silent=None, subsample=1, verbosity=1):
+ 
+ {'Intercept': array([10.146]), 'Coefficients':                        0
+sprint_speed    0.145529
+reactions       0.147136
+shot_power      0.162483
+composure       0.110536
+gk_diving       0.106198
+gk_handling     0.099432
+gk_kicking      0.081017
+gk_positioning  0.082974
+gk_reflexes     0.070048} 
+ 
+ 
+
+Coefficients for GKwith RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+                      max_features='auto', max_leaf_nodes=None,
+                      min_impurity_decrease=0.0, min_impurity_split=None,
+                      min_samples_leaf=1, min_samples_split=2,
+                      min_weight_fraction_leaf=0.0, n_estimators=10,
+                      n_jobs=None, oob_score=False, random_state=None,
+                      verbose=0, warm_start=False):
+ 
+ Not Applicable for this Regressor 
+ 
+ 
+
+Coefficients for OWBwith LinearRegression(copy_X=True, fit_intercept=False, n_jobs=None, normalize=False):
+ 
+ {'Intercept': 0.0, 'Coefficients':                             0
+skill_moves          0.193022
+crossing             0.098091
+heading_accuracy     0.012242
+short_passing        0.063182
+dribbling            0.070972
+curve                0.021508
+long_passing        -0.036668
+ball_control         0.102689
+reactions            0.101808
+shot_power          -0.022418
+stamina              0.175916
+strength             0.010279
+long_shots           0.002941
+aggression          -0.009856
+interceptions        0.112574
+positioning         -0.000779
+vision               0.014591
+composure           -0.002699
+defensive_awareness -0.008953
+standing_tackle      0.103835
+sliding_tackle       0.202158} 
+ 
+ 
+
+Coefficients for OWBwith XGBRegressor(base_score=0.5, booster='gblinear', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0,
+             importance_type='gain', learning_rate=0.1, max_delta_step=0,
+             max_depth=3, min_child_weight=1, missing=None, n_estimators=100,
+             n_jobs=1, nthread=None, objective='reg:linear', random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+             silent=None, subsample=1, verbosity=1):
+ 
+ {'Intercept': array([8.39319]), 'Coefficients':                             0
+skill_moves          0.453841
+crossing             0.095921
+heading_accuracy     0.105551
+short_passing        0.085121
+dribbling            0.075017
+curve                0.050510
+long_passing         0.056526
+ball_control         0.056693
+reactions            0.059336
+shot_power           0.016667
+stamina              0.043284
+strength             0.037333
+long_shots          -0.010552
+aggression           0.033756
+interceptions        0.046329
+positioning          0.022000
+vision               0.013133
+composure            0.025594
+defensive_awareness  0.031825
+standing_tackle      0.037774
+sliding_tackle       0.035004} 
+ 
+ 
+
+Coefficients for OWBwith RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+                      max_features='auto', max_leaf_nodes=None,
+                      min_impurity_decrease=0.0, min_impurity_split=None,
+                      min_samples_leaf=1, min_samples_split=2,
+                      min_weight_fraction_leaf=0.0, n_estimators=10,
+                      n_jobs=None, oob_score=False, random_state=None,
+                      verbose=0, warm_start=False):
+ 
+ Not Applicable for this Regressor 
+ 
+ 
+
