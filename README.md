@@ -2,7 +2,7 @@
 
 A project to write a script to download all current player data from EA Sports' FIFA video game using the SoFIFA.com site, then reverse engineer the Overall rating given to each player. 
 
-Shoutout to <a href='https://github.com/DiogoDantas'>DiogoDantas</a> and <a href="https://github.com/arnaldog12">arnaldog12</a> for their project linked here, I did mine a bit differently but got a bit of inspiration from these guys!
+Shoutout to <a href='https://github.com/DiogoDantas'>DiogoDantas</a> and <a href="https://github.com/arnaldog12">arnaldog12</a> for their project linked <a href='https://github.com/DiogoDantas/SoFIFA'>here</a>, I did mine a bit differently but got a bit of inspiration from these guys!
 
 Contents: 
 
